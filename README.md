@@ -10,7 +10,7 @@ This project was developed during the RocketSeat's Next Level Week - Copa event.
 
 * Creating new pools;
 
-<!-- <p align="center"><img src=".github/sample.gif" alt="sample" /></p> -->
+<p align="center"><img src=".github/sample.gif" alt="sample" /></p>
 
 ## 💹 Extras
 
