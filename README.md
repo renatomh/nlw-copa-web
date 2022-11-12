@@ -22,6 +22,8 @@ During the development of this project, the following techologies were used:
 
 - [React](https://reactjs.org/)
 - [Next.js](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Axios](https://axios-http.com/ptbr/docs/intro)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## 💻 Project Configuration
@@ -39,6 +41,7 @@ To run the project in a development environment, execute the following command o
 ```bash
 $ yarn dev
 ```
+
 ### Documentation:
 * 
 
